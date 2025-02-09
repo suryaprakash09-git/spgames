@@ -1,0 +1,33 @@
+body {
+  font-family: 'Press Start 2P', cursive;
+  color: whitesmoke;
+  background-color: black;
+  color: white;
+}
+.modal-body img {
+  width: 200%;
+}
+.card {
+  background-color: black;
+  border: 1px solid black;
+  box-shadow: #444 3px 3px 6px;
+}
+.card-img-top {
+  border-bottom: 1px solid #444;
+}
+.modal-content {
+  background-color: #333;
+  border: 1px solid #444;
+}
+.modal-header {
+  border-bottom: 1px solid #444;
+}
+.modal-footer {
+  border-top: 1px solid #444;
+}
+.hh{
+  text-align: center;
+  font-size: 80px;
+  color: white;
+  text-shadow: 1px 1px 10px cyan;
+}
